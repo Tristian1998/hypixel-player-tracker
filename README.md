@@ -6,4 +6,4 @@ This mod uses the hypixel API to track players location
 ## NOTE:
 TO USE THIS YOU NEED TO SET YOUR API KEY!!
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ebRWsTZ"  ><a href="//imgur.com/a/ebRWsTZ">Player Tracker mod list</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ebRWsTZ"  ><a href="//imgur.com/a/ebRWsTZ">Click Here to preview</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
