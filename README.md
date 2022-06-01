@@ -5,3 +5,4 @@ This mod uses the hypixel API to track players location
 
 ## NOTE:
 TO USE THIS YOU NEED TO SET YOUR API KEY!!
+https://i.imgur.com/Dz2m2N2.png
